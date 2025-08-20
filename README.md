@@ -2,7 +2,7 @@
 
 # Hello World Repository  
 
-Hi 👋, my name is bhargav dobariya  
+Hi 👋, my name is **Bhargav Dobariya**.
 This is my first repository on GitHub. I am currently studying **BCA (Bachelor of Computer Applications)** and learning how to use Git and GitHub.  
 
 ## About Me  
@@ -26,4 +26,3 @@ Here I will try to:
 - Improve my GitHub profile step by step  
 
 
-✨ This is just a beginning, more to come soon!
