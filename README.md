@@ -1,6 +1,6 @@
 # Hello-World
 
-# Hello World Repository  
+Repository  
 
 Hi 👋, my name is **Bhargav Dobariya**.
 This is my first repository on GitHub. I am currently studying **BCA (Bachelor of Computer Applications)** and learning how to use Git and GitHub.  
