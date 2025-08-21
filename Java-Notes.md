@@ -9,7 +9,7 @@ Java is a high-level, object-oriented programming language.
 - Secure & Robust  
 
 ## Example Code  
-
+```java
 class Hello {
     public static void main(String[] args) {
         System.out.println("Hello, Java!");
